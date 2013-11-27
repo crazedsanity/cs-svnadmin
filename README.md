@@ -8,4 +8,4 @@ Because I'm not satisfied with the performance/usability of other applications, 
 
 Here's the (exported) Xmind document that gives a quick overview (needs to be updated):
 
-![CS-SVNAdmin Overview][(docs/SVN_Web_Application.png)
+[CS-SVNAdmin Overview][(docs/SVN_Web_Application.png)
